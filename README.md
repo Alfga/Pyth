@@ -1,4 +1,4 @@
-# DarkFB Termux
+# Alfga Termux
 
 <ul>
 <li><code>pkg install git python2</code></li>
